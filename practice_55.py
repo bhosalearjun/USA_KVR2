@@ -12,12 +12,6 @@ def reverse_the_line(ghar_line):
 
 
 
-
-
-
-
-
-
 line=get_line()
 
 reverse_the_line(line)
