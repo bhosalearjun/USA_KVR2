@@ -10,7 +10,7 @@ def disp_number_of_characters_in_each_word(ghar_line):
     for word in words:
         print(f"{word}---->{len(word)}")
 
-
+print("-"*60)
 
 
 
