@@ -14,8 +14,7 @@ def revese_the_string(ghar_line):
 
 
 
-
-
-
 line=get_line()
 revese_the_string(line)
+
+print("the code is running well")
